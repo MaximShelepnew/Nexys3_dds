@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "Z:/UART/UART_pr/top_modul_isim_beh.exe" -prj "Z:/UART/UART_pr/top_modul_beh.prj" "work.top_modul" 

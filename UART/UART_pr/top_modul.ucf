@@ -1,0 +1,67 @@
+
+
+NET "anod[3]" IOSTANDARD = LVCMOS33;
+NET "anod[2]" IOSTANDARD = LVCMOS33;
+NET "anod[1]" IOSTANDARD = LVCMOS33;
+NET "anod[0]" IOSTANDARD = LVCMOS33;
+NET "cathod[7]" IOSTANDARD = LVCMOS33;
+NET "cathod[6]" IOSTANDARD = LVCMOS33;
+NET "cathod[5]" IOSTANDARD = LVCMOS33;
+NET "cathod[4]" IOSTANDARD = LVCMOS33;
+NET "cathod[3]" IOSTANDARD = LVCMOS33;
+NET "cathod[2]" IOSTANDARD = LVCMOS33;
+NET "cathod[1]" IOSTANDARD = LVCMOS33;
+NET "cathod[0]" IOSTANDARD = LVCMOS33;
+
+NET "switch[7]" IOSTANDARD = LVCMOS33;
+NET "switch[6]" IOSTANDARD = LVCMOS33;
+NET "switch[5]" IOSTANDARD = LVCMOS33;
+NET "switch[4]" IOSTANDARD = LVCMOS33;
+NET "switch[3]" IOSTANDARD = LVCMOS33;
+NET "switch[2]" IOSTANDARD = LVCMOS33;
+NET "switch[1]" IOSTANDARD = LVCMOS33;
+NET "switch[0]" IOSTANDARD = LVCMOS33;
+NET "tx" IOSTANDARD = LVCMOS33;
+NET "rx" IOSTANDARD = LVCMOS33;
+
+NET "tx" LOC = N18;
+NET "rx" LOC = N17;
+NET "anod[3]" LOC = P17;
+NET "anod[2]" LOC = P18;
+NET "anod[1]" LOC = N15;
+NET "anod[0]" LOC = N16;
+NET "cathod[7]" LOC = M13;
+NET "cathod[6]" LOC = L14;
+NET "cathod[5]" LOC = N14;
+NET "cathod[4]" LOC = M14;
+NET "cathod[3]" LOC = U18;
+NET "cathod[2]" LOC = U17;
+NET "cathod[1]" LOC = T18;
+NET "cathod[0]" LOC = T17;
+
+NET "switch[7]" LOC = T5;
+NET "switch[6]" LOC = V8;
+NET "switch[5]" LOC = U8;
+NET "switch[4]" LOC = N8;
+NET "switch[3]" LOC = M8;
+NET "switch[2]" LOC = V9;
+NET "switch[1]" LOC = T9;
+NET "switch[0]" LOC = T10;
+
+
+NET "button[4]" IOSTANDARD = LVCMOS33;
+NET "button[3]" IOSTANDARD = LVCMOS33;
+NET "button[2]" IOSTANDARD = LVCMOS33;
+NET "button[1]" IOSTANDARD = LVCMOS33;
+NET "button[0]" IOSTANDARD = LVCMOS33;
+
+
+NET "button[1]" LOC = D9;
+NET "button[0]" LOC = A8;
+NET "button[2]" LOC = C9;
+NET "button[3]" LOC = C4;
+NET "button[4]" LOC = B8;
+
+			  
+
+

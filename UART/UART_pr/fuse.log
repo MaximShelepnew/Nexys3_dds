@@ -1,0 +1,73 @@
+Running: E:\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o Z:/UART/UART_pr/top_modul_isim_beh.exe -prj Z:/UART/UART_pr/top_modul_beh.prj work.top_modul 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "Z:/UART/UART_pr/ipcore_dir/DDS_sin.vhd" into library work
+Parsing VHDL file "Z:/UART/UART_pr/UART_rx.vhd" into library work
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 58: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 60: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 63: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 66: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 69: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 72: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 75: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 78: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 81: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "Z:/UART/UART_pr/UART_rx.vhd" Line 84: Case choice must be a locally static expression
+Parsing VHDL file "Z:/UART/UART_pr/UART.vhd" into library work
+Parsing VHDL file "Z:/UART/UART_pr/spi_master.vhd" into library work
+Parsing VHDL file "Z:/UART/UART_pr/Display7seg.vhd" into library work
+Parsing VHDL file "Z:/UART/UART_pr/top_modul.vhd" into library work
+WARNING:HDLCompiler:946 - "Z:/UART/UART_pr/top_modul.vhd" Line 215: Actual for formal port count is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "Z:/UART/UART_pr/top_modul.vhd" Line 283: Actual for formal port data1 is neither a static name nor a globally static expression
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 77584 KB
+Fuse CPU Usage: 1140 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_signed
+Compiling package vcomponents
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling package std_logic_unsigned
+Compiling architecture dcm_sp_clock_divide_by_2_v of entity dcm_sp_clock_divide_by_2 [dcm_sp_clock_divide_by_2_default]
+Compiling architecture dcm_sp_maximum_period_check_v of entity dcm_sp_maximum_period_check [\dcm_sp_maximum_period_check("*"...]
+Compiling architecture dcm_sp_maximum_period_check_v of entity dcm_sp_maximum_period_check [\dcm_sp_maximum_period_check("*"...]
+Compiling architecture dcm_sp_clock_lost_v of entity dcm_sp_clock_lost [dcm_sp_clock_lost_default]
+Compiling architecture dcm_sp_v of entity DCM_SP [\DCM_SP(true,"*",true,false,2.0,...]
+Compiling architecture behavioral of entity Display7Seg [display7seg_default]
+Compiling architecture behavioral of entity UART [uart_default]
+Compiling architecture behavioral of entity UART_rx [\UART_rx(100000000,57600)\]
+Compiling package math_real
+Compiling package bip_utils_pkg_v2_0
+Compiling package bip_usecase_utils_pkg_v2_0
+Compiling package xcc_utils_v2_0
+Compiling package pkg_dds_compiler_v4_0
+Compiling package dds_compiler_v4_0_sim_comps
+Compiling package xbip_pipe_v2_0_xst_comp
+Compiling package xbip_pipe_v2_0_comp
+Compiling architecture behavioral of entity xbip_pipe_v2_0 [\xbip_pipe_v2_0(3,0,0,0,1,0,0,"0...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0_xst [\xbip_pipe_v2_0_xst(3,0,0,0,1,0,...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0 [\xbip_pipe_v2_0(0,0,0,0,0,0,0,"0...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0_xst [\xbip_pipe_v2_0_xst(0,0,0,0,0,0,...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0 [\xbip_pipe_v2_0(1,0,0,0,0,0,0,"0...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0_xst [\xbip_pipe_v2_0_xst(1,0,0,0,0,0,...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0 [\xbip_pipe_v2_0(1,1,0,0,1,0,0,"0...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0_xst [\xbip_pipe_v2_0_xst(1,1,0,0,1,0,...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0 [\xbip_pipe_v2_0(2,0,0,0,0,0,0,"0...]
+Compiling architecture behavioral of entity xbip_pipe_v2_0_xst [\xbip_pipe_v2_0_xst(2,0,0,0,0,0,...]
+Compiling architecture behavioral of entity dds_compiler_v4_0 [\dds_compiler_v4_0("spartan6",10...]
+Compiling architecture dds_sin_a of entity DDS_sin [dds_sin_default]
+Compiling architecture behavioral of entity spi_master [spi_master_default]
+Compiling architecture behavioral of entity top_modul
+Time Resolution for simulation is 1ps.
+Compiled 62 VHDL Units
+Built simulation executable Z:/UART/UART_pr/top_modul_isim_beh.exe
+Fuse Memory Usage: 131980 KB
+Fuse CPU Usage: 3468 ms

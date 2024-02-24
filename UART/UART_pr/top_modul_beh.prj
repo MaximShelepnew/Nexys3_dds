@@ -1,0 +1,6 @@
+vhdl work "ipcore_dir/DDS_sin.vhd"
+vhdl work "UART_rx.vhd"
+vhdl work "UART.vhd"
+vhdl work "spi_master.vhd"
+vhdl work "Display7seg.vhd"
+vhdl work "top_modul.vhd"

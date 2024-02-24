@@ -1,0 +1,14 @@
+# Output products list for <DDS_sin>
+DDS_sin.asy
+DDS_sin.gise
+DDS_sin.ngc
+DDS_sin.sym
+DDS_sin.vhd
+DDS_sin.vho
+DDS_sin.xco
+DDS_sin.xise
+DDS_sin\doc\dds_compiler_v4_0_vinfo.html
+DDS_sin\doc\dds_ds558.pdf
+DDS_sin_flist.txt
+DDS_sin_readme.txt
+DDS_sin_xmdf.tcl

@@ -1,0 +1,815 @@
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+xst -intstyle ise -ifn "Z:/UART/UART_pr/top_modul.xst" -ofn "Z:/UART/UART_pr/top_modul.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top_modul.ucf -p xc6slx16-csg324-3 top_modul.ngc top_modul.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_modul_map.ncd top_modul.ngd top_modul.pcf 
+par -w -intstyle ise -ol high -mt off top_modul_map.ncd top_modul.ncd top_modul.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_modul.twx top_modul.ncd -o top_modul.twr top_modul.pcf -ucf top_modul.ucf 
+bitgen -intstyle ise -f top_modul.ut top_modul.ncd 

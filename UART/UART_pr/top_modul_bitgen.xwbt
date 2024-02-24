@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=Z:\UART\UART_pr\top_modul.ncd
+OUTFILE=Z:\UART\UART_pr\top_modul.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=Z:\UART\UART_pr
+LICENSE=WebPack
+USER_INFO=__0_0_0

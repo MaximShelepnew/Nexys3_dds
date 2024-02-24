@@ -1,0 +1,4 @@
+vhdl work "UART_rx.vhd"
+vhdl work "UART.vhd"
+vhdl work "Display7seg.vhd"
+vhdl work "top_modul.vhd"
